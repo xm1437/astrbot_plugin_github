@@ -1,0 +1,15 @@
+{
+  "token": {
+    "description": "GitHub Personal Access Token (classic)",
+    "type": "string",
+    "hint": "在 GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic) 生成。建议勾选 repo、user、read:org 等 scope。也可用 /gh settoken 命令设置。",
+    "obvious_hint": true,
+    "default": ""
+  },
+  "repos_per_page": {
+    "description": "列出仓库 / Issue / PR 时最多显示的条数（1-30）",
+    "type": "int",
+    "hint": "条数过多会导致消息过长，建议 3-10。",
+    "default": 5
+  }
+}
