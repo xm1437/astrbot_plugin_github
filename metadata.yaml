@@ -1,8 +1,8 @@
 name: astrbot_plugin_github
-display_name: GitHub 管理助手
-desc: 通过经典 Token 让你的机器人管理 GitHub：仓库、Issue、Pull Request、搜索等。
+display_name: GitHub 管理助手 v2.1.0
+desc: 通过经典 Token 让你的机器人管理 GitHub：仓库、Issue、Pull Request、搜索等。支持自然语言与手动指令双模式，现已支持 LLM Function Calling。
 version: v2.1.0
-author: AstrBotUser
-repo: https://github.com/AstrBotUser/astrbot_plugin_github
+author: xm1437
+repo: https://github.com/xm1437/astrbot_plugin_github
 astrbot_version: ">=4.16,<5"
-short_desc: 用经典 Token 管理 GitHub 仓库/Issue/PR。
+short_desc: 用经典 Token 管理 GitHub 仓库/Issue/PR，支持 Function Calling。
