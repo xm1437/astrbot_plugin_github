@@ -1,7 +1,7 @@
 name: astrbot_plugin_github
 display_name: GitHub 管理助手
 desc: 通过经典 Token 让你的机器人管理 GitHub：仓库、Issue、Pull Request、搜索等。
-version: v1.0.0
+version: v2.1.0
 author: AstrBotUser
 repo: https://github.com/AstrBotUser/astrbot_plugin_github
 astrbot_version: ">=4.16,<5"
